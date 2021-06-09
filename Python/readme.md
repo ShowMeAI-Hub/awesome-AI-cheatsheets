@@ -1,16 +1,16 @@
 # Python基础
 <table align="left">
   <td>
-    <a target="_blank" href="http://nbviewer.ipython.org/github/ShowMeAI-Hub/awesome-AI-cheatsheets/blob/main/Python/Python基础-cheatsheet-code.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" />在nbviewer上查看notebook</a>
+    <a target="_blank" href="http://nbviewer.ipython.org/github/ShowMeAI-Hub/awesome-AI-cheatsheets/blob/main/Python/Python基础-cheatsheet-code.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" /><br>在nbviewer上查看notebook</a>
   </td>
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/ShowMeAI-Hub/awesome-AI-cheatsheets/blob/main/Python/Python基础-cheatsheet-code.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" />在Google Colab运行</a>
+    <a target="_blank" href="https://colab.research.google.com/github/ShowMeAI-Hub/awesome-AI-cheatsheets/blob/main/Python/Python基础-cheatsheet-code.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /><br>在Google Colab运行</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础-cheatsheet-code.ipynb"><img src="https://badgen.net/badge/open/github/color=cyan?icon=github" />在Github上查看源代码</a>
+    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础-cheatsheet-code.ipynb"><img src="https://badgen.net/badge/open/github/color=cyan?icon=github" /><br>在Github上查看源代码</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础.pdf"><img src="https://badgen.net/badge/download/pdf/color=white?icon=github"/>下载速查表</a>
+    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础.pdf"><img src="https://badgen.net/badge/download/pdf/color=white?icon=github"/><br>下载速查表</a>
   </td>
 </table>
 
