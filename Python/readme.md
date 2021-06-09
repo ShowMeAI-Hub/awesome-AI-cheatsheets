@@ -13,8 +13,8 @@
     <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础.pdf"><img src="https://badgen.net/badge/download/pdf/color=white?icon=github"/><br>下载速查表</a>
   </td>
 </table>
----
----
+<br></br>
+<br>
 
 ## 说明
 **notebook by [韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](https://github.com/ShowMeAI-Hub)**
