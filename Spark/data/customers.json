@@ -1,0 +1,4 @@
+{"firstName":"Jane", "lastName":"Butterburg", "address": {"street": "6649 N Blue Gum St", "city": "New Orleans","state": "LA", "zip": "70116" }, "phoneNumber":{"number":"210-332-578", "type":"mobile"}, "age":22}
+{"firstName":"Josephine", "lastName":"Darakjy", "address": {"street": "4 B Blue Ridge Blvd", "city": "Brighton","state": "MI", "zip": "48116" }, "phoneNumber":{"number":"210-319-103", "type":"mobile"}, "age":25}
+{"firstName":"Boris", "lastName":"Chemel", "address": {"street": "8 W Cerritos Ave #54", "city": "Bridgeport","state": "NJ", "zip": "08014" }, "phoneNumber":{"number":"210-322-007", "type":"mobile"}, "age":32}
+{"firstName":"Johnson", "lastName":"Smith", "address": {"street": "5 W Blue Ave St", "city": "Bridgeport","state": "NJ", "zip": "08112" }, "phoneNumber":{"number":"210-303-029", "type":"mobile"}, "age":35}
