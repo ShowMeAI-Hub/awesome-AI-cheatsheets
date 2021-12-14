@@ -21,6 +21,7 @@ AI速查表学习指南请查看[速查表应用说明书](https://showmeai-hub.
       * [数据分析与处理](#数据分析与处理)
          * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Importing%20Data">Importing Data</a>](#importing-data)
          * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Pandas">Pandas</a>](#pandas)
+         * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/SQL">SQL</a>](#SQL)
       * [数据可视化](#数据可视化)
          * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Matplotlib">Matplotlib</a>](#matplotlib)
          * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Seaborn">Seaborn</a>](#seaborn)
@@ -31,8 +32,16 @@ AI速查表学习指南请查看[速查表应用说明书](https://showmeai-hub.
          * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Scikit-Learn">Scikit-Learn</a>](#scikit-learn)
       * [深度学习](#深度学习)
          * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Keras">Keras</a>](#keras)
+         * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Tensorflow">Tensorflow</a>](#Tensorflow)
+         * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Pytorch">Pytorch</a>](#Pytorch)
+      * [垂直领域](#垂直领域)
+         * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/OpenCV">OpenCV</a>](#OpenCV)
+      * [通用技能](#通用技能)
+         * [<a href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/RegularExpression">正则表达式</a>](#RegularExpression)
 
 ## 速查表速览
+
+![](./cheatsheets-img/cheatsheet-list.png)
 
 ### 工具与平台
 
@@ -60,6 +69,9 @@ AI速查表学习指南请查看[速查表应用说明书](https://showmeai-hub.
 #### [Pandas](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Pandas)
 ![](./cheatsheets-img/pandas.png)
 
+#### [SQL](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/SQL)
+![](./cheatsheets-img/SQL.png)
+
 ### 数据可视化
 
 #### [Matplotlib](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Matplotlib)
@@ -83,3 +95,17 @@ AI速查表学习指南请查看[速查表应用说明书](https://showmeai-hub.
 ### 深度学习
 #### [Keras](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Keras)
 ![](./cheatsheets-img/keras.png)
+
+#### [Tensorflow](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Tensorflow)
+![](./cheatsheets-img/tensorflow.png)
+
+#### [Pytorch](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Pytorch)
+![](./cheatsheets-img/pytorch.png)
+
+### 垂直领域
+#### [OpenCV](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/OpenCV)
+![](./cheatsheets-img/opencv.png)
+
+### 通用技能
+#### [正则表达式](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/RegularExpression)
+![](./cheatsheets-img/reg_ex.png)
