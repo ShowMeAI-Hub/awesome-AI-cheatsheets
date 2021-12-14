@@ -4,7 +4,7 @@
 **作者：[韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](http://show-me-ai.com/)**</br>
 **设计：南乔@[ShowMeAI](http://show-me-ai.com/)**
 
-AI速查表学习指南请查看[速查表应用说明书](https://showmeai-hub.github.io/2021/06/18/awesome-ai-cheatsheets-resources.html)
+AI速查表学习指南请查看[速查表应用说明书](http://blog.showmeai.tech/awesome-ai-cheatsheets-resources/)
 
 目录
 =================
