@@ -1,10 +1,10 @@
 # AI速查表全集
 本github包含AI与数据科学各类工具库相关速查表与参考代码，可用于快速解决各类场景问题与建模应用。
 
-**作者：[韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](http://show-me-ai.com/)**</br>
-**设计：南乔@[ShowMeAI](http://show-me-ai.com/)**
+**作者：[韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](http://www.showmeai.tech/)**</br>
+**设计：南乔@[ShowMeAI](http://www.showmeai.tech/)**
 
-AI速查表学习指南请查看[速查表应用说明书](http://blog.showmeai.tech/awesome-ai-cheatsheets-resources/)
+AI速查表学习指南请查看[速查表应用说明书](http://blog.showmeai.tech/awesome-ai-cheatsheets-resources)
 
 目录
 =================
