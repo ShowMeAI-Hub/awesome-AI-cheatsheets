@@ -7,10 +7,10 @@
     <a target="_blank" href="https://colab.research.google.com/github/ShowMeAI-Hub/awesome-AI-cheatsheets/blob/main/Python/Python基础-cheatsheet-code.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /><br>在Google Colab运行</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础-cheatsheet-code.ipynb"><img src="https://badgen.net/badge/open/github/color=cyan?icon=github" /><br>在Github上查看源代码</a>
+    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Python/Python基础-cheatsheet-code.ipynb"><img src="https://badgen.net/badge/open/github/color=cyan?icon=github" /><br>在Github上查看源代码</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/Python/Python基础.pdf"><img src="https://badgen.net/badge/download/pdf/color=white?icon=github"/><br>下载速查表</a>
+    <a target="_blank" href="https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets/tree/main/Python/Python基础-cheatsheet.pdf"><img src="https://badgen.net/badge/download/pdf/color=white?icon=github"/><br>下载速查表</a>
   </td>
 </table>
 <br></br>
@@ -20,6 +20,8 @@
 **notebook by [韩信子](https://github.com/HanXinzi-AI)@[ShowMeAI](https://github.com/ShowMeAI-Hub)**
 
 更多AI速查表资料请查看[速查表大全](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets)
+
+欢迎访问[ShowMeAI官网](http://www.showmeai.tech/)获取更多资源。
 
 ## 环境配置
 
