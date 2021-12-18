@@ -24,8 +24,6 @@
 
 欢迎访问[ShowMeAI官网](http://www.showmeai.tech/)获取更多资源。
 
-TensorFlow2建模应用速查表
-
 ## Tensorflow建模手册
 TensorFlow是一个由谷歌开发和维护的开源机器学习平台，用于科学计算、神经网络、图像分类、聚类、回归、强化学习、自然语言处理等。它有两个主要组件：graph（计算图）和 session（会话）。它定义操作的方式是为计算构建计算图（graph）；并在会话（session）中执行部分计算图。
 
